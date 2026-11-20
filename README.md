@@ -8,7 +8,7 @@
 
 ## 使用方式
 ### 填写IP和物理（MAC）地址
-- 填写地址：resource/wake-on-lan.properties
+- 填写地址：wake-on-lan.properties
 - 参照：wake-on-lan.properties.example
 - 在IDE（IDEA/VSCODE etc.）中执行src/MagicPack即可
 
